@@ -1,0 +1,93 @@
+.itemOne {
+  margin: 0 auto;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 0.1em;
+  color: #3d4f9f;
+  padding: 146px 0 0 276px;
+}
+.itemTwo {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 45px;
+  color: #3d4f9f;
+  padding-top: 31px;
+  padding-left: 275px;
+}
+.itemThree {
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 23px;
+  letter-spacing: 0.03em;
+  width: 323px;
+  height: 78.16px;
+  color: #a4abc8;
+  margin-left: 276px;
+  padding-top: 14px;
+  /* padding-bottom: 50px; */
+}
+.itemFour {
+  width: 743px;
+  margin: 0 auto;
+  display: flex;
+  height: 100px;
+  font-family: "Quicksand";
+  color: #495274;
+  font-size: 18px;
+  border-bottom: 1px solid #d8e3fe;
+
+  align-items: center;
+  text-align: left;
+}
+.itemFourrr {
+  width: 743px;
+  height: 176px;
+  border-bottom: 1px solid #d8e3fe;
+  font-family: "Quicksand";
+  color: #495274;
+  font-weight: bold;
+  font-size: 18px;
+}
+.itemForrrOne {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 27px;
+  letter-spacing: 0.03em;
+  width: 391px;
+  height: 62px;
+  color: #8d96bd;
+  padding-top: 10px;
+}
+.itemFourrr button {
+  width: 195px;
+  height: 43px;
+  background: #e8ecf4;
+  border-radius: 2px;
+  border-color: #e8ecf4;
+  margin: 0px 0 0 530px;
+}
+.itemFive {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 12px;
+  color: #3d4f9f;
+  padding: 170px 0 0 650px;
+}
+.itemSix {
+  font-family: "Quicksand";
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  color: #3d4f9f;
+  padding-top: 20px;
+}

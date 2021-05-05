@@ -1,0 +1,120 @@
+.ItemTwo {
+  /* width: 253px;
+    height: 62px; */
+  padding: 104px 0 0 590px;
+}
+.One {
+  height: 12px;
+  font-family: "Quicksand";
+  font-weight: bolder;
+  color: #3d4f9f;
+  padding-left: 55px;
+  letter-spacing: 0.1em;
+}
+.Two {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 30px;
+  color: #3d4f9f;
+  padding-top: 20px;
+}
+.procent {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 83px;
+  text-align: right;
+  letter-spacing: 0.03em;
+  padding: 156px 90px 0px 530px;
+  color: #ffffff;
+}
+.paragraf {
+  font-family: "Quicksand";
+  font-size: 18px;
+  line-height: 23px;
+  text-align: right;
+  letter-spacing: 0.03em;
+  width: 260px;
+  height: 45px;
+  color: #ffffff;
+  margin-left: 361px;
+  letter-spacing: 0.03em;
+}
+.procent1 {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 83px;
+  color: #5e80ff;
+  padding: 159px 535px 0 90px;
+}
+
+.paragraf1 {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+  letter-spacing: 0.03em;
+  color: #5e80ff;
+  width: 260px;
+  height: 45px;
+  margin-left: 90px;
+}
+.ItemThree {
+  display: flex;
+  width: 958px;
+  height: 394px;
+  background: #ffffff;
+  border: 1px solid #d8e3fe;
+  box-sizing: border-box;
+  box-shadow: 0px 15px 50px #eff4ff;
+  margin: 0 auto;
+  margin-top: 92px;
+}
+.Items {
+  width: 408px;
+  height: 267px;
+  margin-right: 20px;
+}
+.Three {
+  font-family: "Quicksand";
+  font-size: 20px;
+  line-height: 45px;
+  color: #3d4f9f;
+  margin-top: 63px;
+  padding-bottom: 30px;
+}
+
+.Four {
+  width: 408px;
+  height: 116px;
+  font-family: "Roboto";
+  font-size: 14px;
+  line-height: 27px;
+  letter-spacing: 0.03em;
+  color: #8d96bd;
+}
+.Five button {
+  width: 200px;
+  height: 43px;
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+  align-items: center;
+  text-align: center;
+  color: #a6b6da;
+  background-color: #ffffff;
+  border-color: #ffffff;
+
+
+}
+.Five{
+  margin-top: 40px;
+}

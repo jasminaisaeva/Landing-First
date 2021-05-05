@@ -1,0 +1,63 @@
+.container {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1200px;
+}
+.header {
+  width: 1440px;
+  height: 120px;
+  background: #ffffff;
+}
+.ul {
+  width: 888px;
+  height: 29px;
+  margin: 58px 120px;
+}
+.ul li {
+  padding-right: 30px;
+}
+.title {
+  font-family: "Roboto";
+  font-size: 10px;
+  line-height: 13px;
+  color: #3d4f9f;
+  margin-left: 271px;
+  margin-top: 100px;
+  letter-spacing: 0.1em;
+}
+.titleOne {
+  width: 299px;
+  height: 45px;
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 45px;
+  color: #3d4f9f;
+  margin-left: 271px;
+  padding-top: 21px;
+}
+.titleTwo {
+  width: 350px;
+  font-family: " Roboto";
+  font-style: normal;
+  font-size: 15px;
+  line-height: 29px;
+  margin-left: 270px;
+  margin-top: 43px;
+  letter-spacing: 0.04em;
+  color: #8d96bd;
+}
+.buttonBLue {
+  width: 120px;
+  height: 43px;
+  margin-left: 270px;
+  margin-top: 55px;
+}
+.buttonWhite {
+  width: 120px;
+  height: 43px;
+  background-color: #ffffff;
+  border-color: #ffffff;
+  color: #adb4d2;
+}
